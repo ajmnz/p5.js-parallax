@@ -1,6 +1,8 @@
 # p5.js Stars and Layers Parallax
 Stars parallax and multi-layer image parallax in p5.js.
 
+**Live demo: https://ajmnz.github.io/p5.js-parallax**
+
 # Installation
 Clone this repository
 
